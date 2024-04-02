@@ -1,0 +1,3 @@
+[submodule "devops/nlw-unite-nodejs-api"]
+	path = devops/nlw-unite-nodejs-api
+	url = https://github.com/rocketseat-education/nlw-unite-nodejs
